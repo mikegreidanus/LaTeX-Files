@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Theory}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Calculating Theoretical Wavelengths}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Working with Angles of Minimum Deviation}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Working with Wavelengths of Diffraction}{3}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Experiment}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Lab Equipment}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Method: Using the prism}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Method: Using the Diffraction Grating}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Results and Analysis}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Observations: The Prism}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Observations: The Diffraction Grating}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Sources of Error}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Potential Improvements}{9}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Conclusion}{9}{section.5}%
+\contentsline {section}{\numberline {A}Appendix}{10}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Deriving Formulas}{10}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Sample Calculations}{10}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}Raw Data}{12}{subsection.A.3}%
+\contentsline {subsection}{\numberline {A.4}Analyzing the Diffraction Grating}{12}{subsection.A.4}%
